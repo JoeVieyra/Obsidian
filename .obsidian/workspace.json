@@ -144,19 +144,9 @@
               "icon": "lucide-list",
               "title": "Esquema de prueba 101"
             }
-          },
-          {
-            "id": "e24315f04dde8f41",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -169,11 +159,10 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7178904447d354ee",
+  "active": "04901dd05d63015d",
   "lastOpenFiles": [
     "prueba 101.md"
   ]
