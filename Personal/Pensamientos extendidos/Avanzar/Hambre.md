@@ -1,0 +1,1 @@
+Hambre de una relación sana, mejores amigos, iniciar mis proyectos esos que siempre dejo en [[ideas de negocio]], las ideas es la forma de ver el control, se que es lo que se tiene que hacer para cambiar las situaciones pero es mucho mas cómodo no hacerlo.

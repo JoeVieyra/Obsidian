@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7178904447d354ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prueba 101.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "prueba 101"
-            }
-          },
-          {
-            "id": "801b5653bf38ef28",
+            "id": "26447a51908c7296",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,37 +20,8 @@
               "icon": "lucide-file",
               "title": "QA"
             }
-          },
-          {
-            "id": "26447a51908c7296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Basico.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basico"
-            }
-          },
-          {
-            "id": "b3451c51e794a96c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data/Data RoadMap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data RoadMap"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#928b78",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 249
   },
   "right": {
     "id": "beb245da41462fbc",
@@ -136,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data/Data RoadMap.md",
+                "file": "prueba 101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Data RoadMap"
+              "title": "Enlaces entrantes de prueba 101"
             }
           },
           {
@@ -155,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data/Data RoadMap.md",
+                "file": "prueba 101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Data RoadMap"
+              "title": "Enlaces salientes de prueba 101"
             }
           },
           {
@@ -182,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data/Data RoadMap.md"
+                "file": "prueba 101.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de Data RoadMap"
+              "title": "Esquema de prueba 101"
             }
           }
         ]
@@ -202,19 +159,48 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f33de1092e0637a2",
+  "active": "26447a51908c7296",
   "lastOpenFiles": [
+    "Clamoxin.md",
+    "Gasto mes.md",
+    "Gatos negocio.md",
+    "Ideas instagram.md",
+    "Journaling relacion.md",
+    "Tareas Xubax.md",
+    "Pasted image 20240806153629.png",
+    "prueba 101.md",
+    "Negocios/ideas de negocio.md",
+    "Borradores/Markdown Basico.md",
+    "Personal/Terapia/Sonia Psi/Junio 16-23.md",
+    "Borradores/Fuentes.md",
+    "Libros/Como ganar amigos/Como ganar amigos e influir sobre las personas.md",
+    "Negocios/Podcats.md",
+    "Negocios/Fotografía Eventos.md",
+    "Negocios/Crear Youtubers,Intagamers.md",
+    "Negocios/Crear un Side Project.md",
+    "Personal/Pensamientos extendidos/Avanzar/Avanzar.md",
+    "Personas/Moni Helia Hernandez Moli.md",
+    "Personas/Fer GC.md",
+    "Personas/Diana C.md",
     "Python/Basico.md",
-    "Data/Data RoadMap.md",
+    "¡Hola !¡Gracias por tu interés! 😊 Nos encantaría que vinieras a Dona Delicia en Doctor Coss. Tenemos unas donas deliciosas que seguro te van a encantar, además de un café que combina perfecto con ellas..md",
+    "Comandos xubax.md",
+    "lista usuarios owncloud.md",
+    "Gogo's.md",
+    "xubax.md",
+    "Sin título 3.canvas",
+    "Sin título 2.canvas",
+    "Sin título 1.canvas",
+    "Sin título.canvas",
+    "Excalidraw",
     "Data/Basico Data",
     "Kotlin",
-    "Tester-QA/QA.md",
     "Data",
     "Python",
-    "Tester-QA",
-    "prueba 101.md"
+    "Tester-QA"
   ]
 }

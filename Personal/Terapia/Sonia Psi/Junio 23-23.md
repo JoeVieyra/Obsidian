@@ -1,0 +1,1 @@
+Temas de hoy relación con la familia y un poco de la relación con mi papa aunque quiera evitar patrones aun los tengo en cierta parte el fue un padre ausente y yo soy una persona ausente con mi propia familia y con la mayoría de mis amigos 
