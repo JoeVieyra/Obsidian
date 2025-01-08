@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5d051a71839b35a0",
+        "id": "2d56472f58ceadd1",
         "type": "tabs",
         "children": [
           {
-            "id": "26447a51908c7296",
+            "id": "9a3cfb9c3d2c2008",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tester-QA/QA.md",
+                "file": "Ingenieria/DevOps/devops-roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QA"
+              "title": "devops-roadmap"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#928b78",
+                "query": "tag:#307a8e",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,44 +163,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "26447a51908c7296",
+  "active": "9a3cfb9c3d2c2008",
   "lastOpenFiles": [
-    "Clamoxin.md",
-    "Gasto mes.md",
-    "Gatos negocio.md",
-    "Ideas instagram.md",
-    "Journaling relacion.md",
-    "Tareas Xubax.md",
-    "Pasted image 20240806153629.png",
-    "prueba 101.md",
-    "Negocios/ideas de negocio.md",
+    "Ingenieria/Data/data-analysis-roadmap.md",
+    "Excalidraw/Drawing 2024-12-21 10.57.52.excalidraw.md",
+    "Ingenieria/Data/data-engineering-roadmap.md",
     "Borradores/Markdown Basico.md",
-    "Personal/Terapia/Sonia Psi/Junio 16-23.md",
     "Borradores/Fuentes.md",
     "Libros/Como ganar amigos/Como ganar amigos e influir sobre las personas.md",
+    "Tareas Xubax.md",
+    "Journaling relacion.md",
+    "Ideas instagram.md",
+    "Gatos negocio.md",
+    "Gasto mes.md",
+    "Clamoxin.md",
+    "Ingenieria/Tester-QA/qa-tester-roadmap.md",
+    "Ingenieria",
+    "Tester-QA/QA.md",
+    "Data/Data RoadMap.md",
+    "Ingenieria/DevOps/common-themes-roadmaps.md",
+    "Ingenieria/DevOps/devops-roadmap.md",
+    "Ingenieria/Python/python-roadmap.md",
+    "Ingenieria/DevOps",
+    "Ingenieria/Kotlin/kotlin-roadmap.md",
+    "Negocios/ideas de negocio.md",
+    "Personal/Terapia/Monica Psi.md",
+    "Pasted image 20240806153629.png",
+    "prueba 101.md",
+    "Personal/Terapia/Sonia Psi/Junio 16-23.md",
     "Negocios/Podcats.md",
     "Negocios/Fotografía Eventos.md",
-    "Negocios/Crear Youtubers,Intagamers.md",
-    "Negocios/Crear un Side Project.md",
-    "Personal/Pensamientos extendidos/Avanzar/Avanzar.md",
-    "Personas/Moni Helia Hernandez Moli.md",
-    "Personas/Fer GC.md",
-    "Personas/Diana C.md",
-    "Python/Basico.md",
-    "¡Hola !¡Gracias por tu interés! 😊 Nos encantaría que vinieras a Dona Delicia en Doctor Coss. Tenemos unas donas deliciosas que seguro te van a encantar, además de un café que combina perfecto con ellas..md",
-    "Comandos xubax.md",
-    "lista usuarios owncloud.md",
-    "Gogo's.md",
-    "xubax.md",
     "Sin título 3.canvas",
     "Sin título 2.canvas",
     "Sin título 1.canvas",
     "Sin título.canvas",
     "Excalidraw",
-    "Data/Basico Data",
-    "Kotlin",
-    "Data",
-    "Python",
-    "Tester-QA"
+    "Ingenieria/Data/Basico Data",
+    "Ingenieria/Kotlin",
+    "Ingenieria/Data",
+    "Ingenieria/Python",
+    "Ingenieria/Tester-QA"
   ]
 }

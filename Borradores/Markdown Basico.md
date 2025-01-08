@@ -9,8 +9,12 @@ _hola hola_
 + preuba1
 + prueba2
 
+
+
+
 #7bd5f6
 #307a8e
+
 307a8e99
 
 > lo importante no es lo que sabes si no lo que haces con lo que sabes
@@ -33,6 +37,7 @@ numero = "10"
 
 
 #928b78
+##
 ###
 ####
 #####
@@ -40,7 +45,7 @@ numero = "10"
 
 ## 3.Control
 [[Junio 16-23]]
-Hshsjsjsjsj
+
 
 
 
