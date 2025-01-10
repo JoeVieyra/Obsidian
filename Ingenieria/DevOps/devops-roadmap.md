@@ -7,10 +7,10 @@
 | Redes | • Protocolos TCP/IP<br>• DNS<br>• Load Balancing<br>• Seguridad básica                     | • Cisco Networking<br>• Network+<br>• AWS Networking     |
 
 ## 2. Control de Versiones y Desarrollo (2 meses)
-| Tema | Subtemas | Recursos Sugeridos |
-|------|----------|-------------------|
-| Git | • Comandos básicos<br>• Branching strategies<br>• Git flow<br>• Resolución de conflictos | • Git Documentation<br>• GitHub Learning Lab<br>• Atlassian Git Tutorial |
-| Programación | • Python/Go/Shell<br>• YAML/JSON<br>• APIs REST<br>• Testing básico | • Codecademy<br>• Go Tour<br>• Python Documentation |
+| Tema                            | Subtemas                                                                                 | Recursos Sugeridos                                                       |
+| ------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Git [[Control de versiones]]    | • Comandos básicos<br>• Branching strategies<br>• Git flow<br>• Resolución de conflictos | • Git Documentation<br>• GitHub Learning Lab<br>• Atlassian Git Tutorial |
+| Programación [[python-roadmap]] | • Python/Go/Shell<br>• YAML/JSON<br>• APIs REST<br>• Testing básico                      | • Codecademy<br>• Go Tour<br>• Python Documentation                      |
 
 ## 3. Contenedores y Orquestación (3-4 meses)
 | Tema | Subtemas | Recursos Sugeridos |

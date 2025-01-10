@@ -1,10 +1,10 @@
 # Roadmap para Aprender Python
 
 ## 1. Fundamentos Básicos de Python (2-3 meses)
-| Tema | Subtemas | Recursos Sugeridos |
-|------|----------|-------------------|
-| Sintaxis Básica | • Variables y tipos de datos<br>• Operadores<br>• Estructuras de control<br>• Input/Output | • Python.org Tutorial<br>• Curso "Python para Principiantes"<br>• Codecademy Python |
-| Estructuras de Datos | • Listas<br>• Tuplas<br>• Diccionarios<br>• Sets | • Python Data Structures<br>• Ejercicios prácticos<br>• W3Schools Python |
+| Tema                                   | Subtemas                                                                                   | Recursos Sugeridos                                                                  |
+| -------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| Sintaxis Básica [[Python Basico]]      | • Variables y tipos de datos<br>• Operadores<br>• Estructuras de control<br>• Input/Output | • Python.org Tutorial<br>• Curso "Python para Principiantes"<br>• Codecademy Python |
+| Estructuras de Datos [[Python Basico]] | • Listas<br>• Tuplas<br>• Diccionarios<br>• Sets                                           | • Python Data Structures<br>• Ejercicios prácticos<br>• W3Schools Python            |
 
 ## 2. Programación Orientada a Objetos (2-3 meses)
 | Tema | Subtemas | Recursos Sugeridos |

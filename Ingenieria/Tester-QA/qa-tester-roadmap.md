@@ -1,22 +1,22 @@
 # Roadmap para QA/Tester
 
 ## 1. Fundamentos de Testing (2-3 meses)
-| Tema | Subtemas | Recursos Sugeridos |
-|------|----------|-------------------|
-| Conceptos Básicos | • Tipos de testing<br>• Ciclo de vida del testing<br>• Casos de prueba<br>• Metodologías de testing | • ISTQB Foundation Level<br>• Testing Essentials<br>• QA Academy Online |
-| Documentación | • Planes de prueba<br>• Casos de uso<br>• Reportes de bugs<br>• Matrices de trazabilidad | • Templates IEEE<br>• Ejemplos prácticos<br>• Cursos de documentación |
+| Tema                                      | Subtemas                                                                                            | Recursos Sugeridos                                                      |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Conceptos Básicos [[testing fundamentos]] | • Tipos de testing<br>• Ciclo de vida del testing<br>• Casos de prueba<br>• Metodologías de testing | • ISTQB Foundation Level<br>• Testing Essentials<br>• QA Academy Online |
+| Documentación [[testing fundamentos]]     | • Planes de prueba<br>• Casos de uso<br>• Reportes de bugs<br>• Matrices de trazabilidad            | • Templates IEEE<br>• Ejemplos prácticos<br>• Cursos de documentación   |
 
 ## 2. Testing Manual (2-3 meses)
-| Tema | Subtemas | Recursos Sugeridos |
-|------|----------|-------------------|
-| Técnicas | • Caja negra<br>• Caja blanca<br>• Exploratory testing<br>• Smoke testing | • Testing Education<br>• Practical Testing<br>• Online Workshops |
-| Herramientas | • Jira<br>• TestRail<br>• Zephyr<br>• Bugzilla | • Atlassian University<br>• TestRail Tutorials<br>• Bug tracking courses |
+| Tema                            | Subtemas                                                                  | Recursos Sugeridos                                                       |
+| ------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Técnicas [[testing Manual]]     | • Caja negra<br>• Caja blanca<br>• Exploratory testing<br>• Smoke testing | • Testing Education<br>• Practical Testing<br>• Online Workshops         |
+| Herramientas [[testing Manual]] | • Jira<br>• TestRail<br>• Zephyr<br>• Bugzilla                            | • Atlassian University<br>• TestRail Tutorials<br>• Bug tracking courses |
 
 ## 3. Automatización de Pruebas (3-4 meses)
-| Tema | Subtemas | Recursos Sugeridos |
-|------|----------|-------------------|
-| Programación | • Java/Python basics<br>• POO<br>• Git básico<br>• SQL básico | • Codecademy<br>• W3Schools<br>• Git tutorials |
-| Frameworks | • Selenium<br>• TestNG/JUnit<br>• Cucumber<br>• Rest Assured | • Selenium WebDriver<br>• BDD tutorials<br>• API testing courses |
+| Tema                            | Subtemas                                                      | Recursos Sugeridos                                               |
+| ------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Programación [[python-roadmap]] | • Java/Python basics<br>• POO<br>• Git básico<br>• SQL básico | • Codecademy<br>• W3Schools<br>• Git tutorials                   |
+| Frameworks                      | • Selenium<br>• TestNG/JUnit<br>• Cucumber<br>• Rest Assured  | • Selenium WebDriver<br>• BDD tutorials<br>• API testing courses |
 
 ## 4. Testing Especializado (2-3 meses)
 | Tema | Subtemas | Recursos Sugeridos |

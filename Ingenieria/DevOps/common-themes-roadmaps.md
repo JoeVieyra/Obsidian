@@ -1,4 +1,5 @@
 # Temas Comunes entre Roadmaps Tecnológicos
+[[common-foundation-roadmapsql-db-design-guideSQL Fundamen]]
 
 | Área Común | Presente en | Conceptos Clave | Herramientas/Tecnologías |
 |------------|-------------|-----------------|-------------------------|
