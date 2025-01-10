@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria/DevOps/devops-roadmap.md",
+                "file": "Ingenieria/Git & SQL/SQL Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "devops-roadmap"
+              "title": "SQL Fundamentals"
+            }
+          },
+          {
+            "id": "d61ccfcd448b70ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingenieria/common-foundation-roadmapsql-db-design-guideSQL Fundamen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "common-foundation-roadmapsql-db-design-guideSQL Fundamen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,36 +178,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a3cfb9c3d2c2008",
+  "active": "d61ccfcd448b70ec",
   "lastOpenFiles": [
+    "Ingenieria/DevOps/dev-tools.md",
+    "Ingenieria/DevOps/cloud basics.md",
+    "Ingenieria/Tester-QA/testing Manual.md",
+    "Ingenieria/Tester-QA/testing fundamentos.md",
+    "Ingenieria/common-foundation-roadmapsql-db-design-guideSQL Fundamen.md",
+    "Clamoxin.md",
+    "Ingenieria/Git & SQL/SQL Fundamentals.md",
+    "Ingenieria/Git & SQL",
+    "Ingenieria/Git & SQL/Diseño DB.md",
+    "Ingenieria/Git & SQL/Control de versiones.md",
+    "Ingenieria/Python/Lógica de Programación.md",
+    "Ingenieria/Python/Python Basico.md",
+    "[programming-fundamentals.md",
+    "Borradores/Markdown Basico.md",
+    "Personal/Terapia/Sonia Psi/Junio 16-23.md",
+    "Personal/Terapia/Sonia Psi/Junio 23-23.md",
     "Ingenieria/Data/data-analysis-roadmap.md",
+    "Ingenieria/Python/python-roadmap.md",
+    "Ingenieria/DevOps/devops-roadmap.md",
     "Excalidraw/Drawing 2024-12-21 10.57.52.excalidraw.md",
     "Ingenieria/Data/data-engineering-roadmap.md",
-    "Borradores/Markdown Basico.md",
     "Borradores/Fuentes.md",
     "Libros/Como ganar amigos/Como ganar amigos e influir sobre las personas.md",
     "Tareas Xubax.md",
     "Journaling relacion.md",
     "Ideas instagram.md",
     "Gatos negocio.md",
-    "Gasto mes.md",
-    "Clamoxin.md",
-    "Ingenieria/Tester-QA/qa-tester-roadmap.md",
     "Ingenieria",
-    "Tester-QA/QA.md",
-    "Data/Data RoadMap.md",
-    "Ingenieria/DevOps/common-themes-roadmaps.md",
-    "Ingenieria/DevOps/devops-roadmap.md",
-    "Ingenieria/Python/python-roadmap.md",
     "Ingenieria/DevOps",
-    "Ingenieria/Kotlin/kotlin-roadmap.md",
-    "Negocios/ideas de negocio.md",
-    "Personal/Terapia/Monica Psi.md",
     "Pasted image 20240806153629.png",
-    "prueba 101.md",
-    "Personal/Terapia/Sonia Psi/Junio 16-23.md",
-    "Negocios/Podcats.md",
-    "Negocios/Fotografía Eventos.md",
     "Sin título 3.canvas",
     "Sin título 2.canvas",
     "Sin título 1.canvas",
