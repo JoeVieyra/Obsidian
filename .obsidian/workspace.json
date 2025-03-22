@@ -41,16 +41,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clamoxin.md",
+                "file": "Ingenieria/Kotlin/kotlin-roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clamoxin"
+              "title": "kotlin-roadmap"
+            }
+          },
+          {
+            "id": "3eb4b3304e26ce3f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
+            "id": "a73d42fff9674dc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Pensamientos extendidos/Avanzar/Avanzar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Avanzar"
+            }
+          },
+          {
+            "id": "cfe0c198bc8f358c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingenieria/Kotlin/kotlin-roadmap.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "kotlin-roadmap"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,35 +233,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b204a27c20d6e31a",
+  "active": "3eb4b3304e26ce3f",
   "lastOpenFiles": [
-    "Sin título.md",
-    "Tareas Xubax.md",
+    "Personal/Pensamientos extendidos/Avanzar/Avanzar.md",
+    "Ingenieria/Kotlin/kotlin-roadmap.md",
+    "Ingenieria/Python/python-roadmap.md",
+    "Ingenieria/Python/Python Basico.md",
+    "Ingenieria/Python/Lógica de Programación.md",
+    "Personal/las leyes del egoísmo.md",
+    "Personal/Personas/Moni Helia Hernandez Moli.md",
+    "Personal/Personas/Fer GC.md",
+    "Personal/Personas/Diana C.md",
+    "Untitled.md",
+    "Ingenieria/common-foundation-roadmapsql-db-design-guideSQL Fundamen.md",
     "Excalidraw/Drawing 2025-02-10 12.14.02.excalidraw.md",
     "Excalidraw/Drawing 2024-12-21 10.57.52.excalidraw.md",
-    "Ingenieria/Kotlin/kotlin-roadmap.md",
+    "Clamoxin.md",
+    "Ingenieria/Flutter",
+    "Sin título.md",
+    "Tareas Xubax.md",
     "Ingenieria/Data/Data engineering/data-engineering-roadmap.md",
     "Ingenieria/DevOps/common-themes-roadmaps.md",
     "Negocios/ideas de negocio.md",
-    "Personal/Personas/Fer GC.md",
     "Ingenieria/Tester-QA/qa-tester-roadmap.md",
     "Ingenieria/Tester-QA/testing fundamentos.md",
     "Ingenieria/Tester-QA/testing Manual.md",
-    "Ingenieria/Python/python-roadmap.md",
     "Ingenieria/Git & SQL/Control de versiones.md",
     "Ingenieria/Git & SQL/Diseño DB.md",
     "Ingenieria/DevOps/devops-roadmap.md",
     "Ingenieria/DevOps/dev-tools.md",
-    "Ingenieria/DevOps/cloud basics.md",
-    "Ingenieria/Data/Data engineering/Procesamiento de Datos.md",
-    "Gasto mes.md",
     "Ingenieria/Data/Data analysis",
-    "Ingenieria/Data/Data analysis/data-analysis-roadmap.md",
-    "Ingenieria/common-foundation-roadmapsql-db-design-guideSQL Fundamen.md",
-    "Ingenieria/Python/Lógica de Programación.md",
-    "Ingenieria/Python/Python Basico.md",
-    "Clamoxin.md",
-    "Ingenieria/Git & SQL/SQL Fundamentals.md",
     "Ingenieria/Git & SQL",
     "Ingenieria",
     "Ingenieria/DevOps",
@@ -234,7 +275,6 @@
     "Ingenieria/Data/Data engineering",
     "Ingenieria/Kotlin",
     "Ingenieria/Data",
-    "Ingenieria/Python",
-    "Ingenieria/Tester-QA"
+    "Ingenieria/Python"
   ]
 }
