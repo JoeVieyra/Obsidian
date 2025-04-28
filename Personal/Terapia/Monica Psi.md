@@ -9,6 +9,7 @@ Lo que mas me gusto fue rencontrarme con las cosas que me gustaban
 + dibujar
 + meditar
 + conocer gente nueva 
+
 > eso es algo a lo que le he estado dando vueltas el conocer gente nueva es algo que yo no quería ceder cuando estaba con Diana y ahora es algo que tuve que hacer casi a la fuerza, me pregunto si ella puedo hacerlo o se volvió a enjaular. 
 
 Se cambio de ciudad a si que decidí buscar a otra psicóloga y probar que tal me sentía con el psicoanálisis. [[Sonia Psi]]

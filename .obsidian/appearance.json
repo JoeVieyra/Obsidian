@@ -1,3 +1,6 @@
 {
-  "cssTheme": "Spectrum"
+  "cssTheme": "Tokyo Night",
+  "theme": "obsidian",
+  "accentColor": "#80a0e5",
+  "baseFontSize": 17
 }
